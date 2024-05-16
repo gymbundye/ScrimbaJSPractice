@@ -1,1 +1,5 @@
-document.getElementById("count").innerText = 5
+//document.getElementById("count").innerText = 0
+
+let count = 0
+
+console.log(count)
